@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "name": "(PAALE CHAIR)",
+        "img": "/assest/imgF001.jpg",
+        "price": "#150,000",
+        "description": "This chair is made of floffy materials and a vey quality fabrics only"
+    },
+
+    {
+        "id": 2,
+        "name": "ONYEMOWO BED",
+        "img": "/assest/imgFF1002.webp",
+        "price": "#210,000",
+        "description": "This bed is made from a very quality wooden materia and quality foum  "
+    },
+
+    {
+        "id": 3,
+        "name": "SITTINGROOM SETTINGS",
+        "img": "/assest/imgFF003.jpeg",
+        "price": "#320,000",
+        "description": "chairs"
+    },
+    {
+        "id": 4,
+        "name": "SHORT DINNING ",
+        "img": "/assest/imgFF101.webp",
+        "price": "#170,000",
+        "description": "ounje"
+    },
+    {
+        "id": 5,
+        "name": "WALL EFFECT",
+        "img": "/assest/imgFF002.jpg",
+        "price": "#280,000",
+        "description": "sitting room"
+    },
+    
+    {
+        "id": 6,
+        "name": "TABLE FOR MEAL",
+        "img": "/assest/imgFF1007.webp",
+        "price": "#110,000",
+        "description": "tables"
+    },
+
+    {
+        "id": 7,
+        "name": " WAKEUP A KING ",
+        "img": "/assest/imgFF1004.webp",
+        "price": "#200,000",
+        "description": "tiwantiwa"
+    },
+    {
+        "id": 8,
+        "name": " WAKEUP A QUEEN",
+        "img": "/assest/imgFF1004.webp",
+        "price": "#204,000",
+        "description": "home&away"
+    },
+    {
+        "id": 9,
+        "name": "EAT LIKE A BOSS A1",
+        "img": "/assest/imgFF101.webp",
+        "price": "#208,000",
+        "description": "tiwantiwa"
+    },
+
+    {"id": 10,
+    "name": "EAT LIKE THE BOSS A2",
+    "img": "/assest/imgFF101.webp",
+    "price": "#200,000",
+    "description": "orun aiye"
+},
+{  "id": 11,
+"name": "SITTINGROOM SETTINGS",
+"img": "/assest/imgFF003.jpeg",
+"price": "#320,000",
+"description": "chairs"
+},
+
+{  "id": 12,
+"name": " AGA IGBALODE ",
+"img": "/assest/imgFF003.jpeg",
+"price": "#460,000",
+"description": "chairs"},
+{  "id": 13,
+"name": " BASIT MADE FURNITURE ",
+"img": "/assest/imgFF003.jpeg",
+"price": "#860,000",
+"description": "chairs"},
+{  "id": 14,
+"name": " BAKI MADES ",
+"img": "/assest/imgFF003.jpeg",
+"price": "#700,000",
+"description": "chairs"},
+{
+    "id": 15,
+    "name": "EAT LIKE A BOSS A1",
+    "img": "/assest/imgFF101.webp",
+    "price": "#208,000",
+    "description": "tiwantiwa"
+},
+{
+    "id": 5,
+    "name": "WALL EFFECT",
+    "img": "/assest/imgFF002.jpg",
+    "price": "#280,000",
+    "description": "sitting room"
+}
+
+
+
+]
